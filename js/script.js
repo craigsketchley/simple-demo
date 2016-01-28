@@ -16,7 +16,7 @@ var _positions = [
   {
     name: 's',
     start: {
-      percent: 0.08, // This indicates when the letter will start moving. It is "what fraction of the letter-container is hidden" when scrolled. [0.1 == 10%] So if the window is scrolled hiding 10% of the pink box containing the letters, then this letter will begin moving.
+      percent: 0.05, // This indicates when the letter will start moving. It is "what fraction of the letter-container is hidden" when scrolled. [0.1 == 10%] So if the window is scrolled hiding 10% of the pink box containing the letters, then this letter will begin moving.
       x: 0.091, // The horizontal starting position of the letter as a fraction of the container (or screen) width. This is measured from the left side of each letter image, so at 0.0 the left side of the letter will line up perfectly with the left side of the container.
       y: 0.23 // The vertical starting position of the letter as a fraction of the container (or screen) height. This is measured from the top of each letter image, so at 0.0 the top of the letter will line up perfectly with the top of the container.
     },
@@ -29,7 +29,7 @@ var _positions = [
   {
     name: 'i',
     start: {
-      percent: 0.08,
+      percent: 0.05,
       x: 0.22,
       y: 0.35
     },
@@ -42,7 +42,7 @@ var _positions = [
   {
     name: 'm',
     start: {
-      percent: 0.08,
+      percent: 0.05,
       x: 0.2940,
       y: 0.281
     },
@@ -55,7 +55,7 @@ var _positions = [
   {
     name: 'p',
     start: {
-      percent: 0.08,
+      percent: 0.05,
       x: 0.537,
       y: 0.42
     },
@@ -68,7 +68,7 @@ var _positions = [
   {
     name: 'l',
     start: {
-      percent: 0.08,
+      percent: 0.05,
       x: 0.6935,
       y: 0.175
     },
@@ -81,7 +81,7 @@ var _positions = [
   {
     name: 'e',
     start: {
-      percent: 0.08,
+      percent: 0.05,
       x: 0.764,
       y: 0.392
     },
