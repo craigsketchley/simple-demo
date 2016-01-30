@@ -22,7 +22,7 @@ body {
 }
 
 .l {
-  background: url(/img/l.png);
+  background: url(./img/l.png);
   width: 51px;
   height: 250px;
 }
