@@ -22,37 +22,37 @@ body {
 }
 
 .l {
-  background: url(/img/l.png);
+  background: url(img/l.png);
   width: 51px;
   height: 250px;
 }
 
 .p {
-  background: url(/img/p.png);
+  background: url(img/p.png);
   width: 170px;
   height: 247px;
 }
 
 .i {
-  background: url(/img/i.png);
+  background: url(img/i.png);
   width: 54px;
   height: 239px;
 }
 
 .s {
-  background: url(/img/s.png);
+  background: url(img/s.png);
   width: 135px;
   height: 172px;
 }
 
 .m {
-  background: url(/img/m.png);
+  background: url(img/m.png);
   width: 267px;
   height: 169px;
 }
 
 .e {
-  background: url(/img/e.png);
+  background: url(img/e.png);
   width: 170px;
   height: 172px;
 }
